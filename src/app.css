@@ -1,6 +1,0 @@
-@import '../node_modules/vazir-font/dist/font-face.css';
-@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-
-html, body, * {
-  font-family: 'Vazir';
-}
