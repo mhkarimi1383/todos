@@ -1,0 +1,13 @@
+{
+  "short_name": "کارهام",
+  "name": "برنامه مدیریت کارهای من",
+  "icons": [{
+    "src": "./icons/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#37c8ab",
+  "background_color": "#ffffff"
+}
